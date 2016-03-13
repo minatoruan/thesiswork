@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints
+txt/*
+*.pyc
+*.bak
+*.aux
+*.toc
+*.idx
+*.log
+*.out
+*.arff~
+temp
